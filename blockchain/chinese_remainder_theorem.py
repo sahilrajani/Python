@@ -92,3 +92,7 @@ if __name__ == "__main__":
     testmod(name="chinese_remainder_theorem2", verbose=True)
     testmod(name="invert_modulo", verbose=True)
     testmod(name="extended_euclid", verbose=True)
+
+print("Hello world")
+
+input("How was your experience,tell us...")
